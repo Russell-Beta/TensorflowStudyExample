@@ -1,5 +1,5 @@
 # Tensorflow Study Example
-¾È³ç
+
 # Version Info
 * Python3.6
 * Tensorflow1.10
