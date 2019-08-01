@@ -1,5 +1,5 @@
 # Tensorflow Study Example
-
+Russell-Beta zzzzzzzggggggggg
 # Version Info
 * Python3.6
 * Tensorflow1.10
